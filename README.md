@@ -1,6 +1,6 @@
 # resume
 
-> resume
+> A Vue.js project
 
 ## Build Setup
 
