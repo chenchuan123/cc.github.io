@@ -30,11 +30,11 @@
                 </tr>
                 <tr>
                   <th scope="row">手机</th>
-                  <td>110</td>
+                  <td>173.......</td>
                 </tr>
                 <tr>
                   <th scope="row">邮箱</th>
-                  <td>110@qq.com</td>
+                  <td>？？？？？@qq.com</td>
                 </tr><tr>
                   <th scope="row">Github</th>
                   <td>
